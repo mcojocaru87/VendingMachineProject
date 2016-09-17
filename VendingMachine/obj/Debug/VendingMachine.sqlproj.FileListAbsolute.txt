@@ -1,0 +1,5 @@
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.dacpac
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb

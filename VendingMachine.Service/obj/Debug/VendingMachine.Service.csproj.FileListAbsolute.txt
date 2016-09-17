@@ -1,0 +1,13 @@
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Service.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Service.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\obj\Debug\VendingMachine.Service.csprojResolveAssemblyReference.cache
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\obj\Debug\VendingMachine.Service.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\obj\Debug\VendingMachine.Service.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Entity.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Repository.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\EntityFramework.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Data.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Entity.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Repository.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\EntityFramework.xml
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Service\bin\VendingMachine.Data.pdb

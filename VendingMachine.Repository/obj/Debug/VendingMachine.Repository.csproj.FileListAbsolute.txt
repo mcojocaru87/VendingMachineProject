@@ -1,0 +1,11 @@
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.csprojResolveAssemblyReference.cache
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Repository.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Repository.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\EntityFramework.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Data.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Entity.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Data.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\EntityFramework.xml
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\bin\Debug\VendingMachine.Entity.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Repository\obj\Debug\VendingMachine.Repository.pdb

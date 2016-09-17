@@ -1,0 +1,5 @@
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Entities\bin\Debug\VendingMachine.Entity.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Entities\bin\Debug\VendingMachine.Entity.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Entities\obj\Debug\VendingMachine.Entity.dll
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Entities\obj\Debug\VendingMachine.Entity.pdb
+C:\Users\marian.cojocaru\Documents\Visual Studio 2012\Projects\VendingMachine\VendingMachine.Entities\obj\Debug\VendingMachine.Entity.csprojResolveAssemblyReference.cache
